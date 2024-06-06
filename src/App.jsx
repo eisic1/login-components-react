@@ -1,4 +1,4 @@
-import LoginForm from "./components/Login Forms/LoginForm.jsx"
+import LoginForm from "./components/Login Forms2/LoginForm.jsx"
 
 function App() {
 

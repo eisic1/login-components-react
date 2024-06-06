@@ -54,12 +54,13 @@
 }
 
 .login-form-title .title{
-    font-family: Poppins-Bold;
+    font-family: Poppins-Bold, sans-serif;
     font-size: 30px;
     color: #fff;
     text-transform: uppercase;
     line-height: 1.2;
     text-align: center;
+    font-weight: bold;
 }
 
 .login-form{
@@ -78,7 +79,7 @@
 }
 
 .wrap-input .label-input{
-    font-family: Poppins-Regular;
+    font-family: Poppins-Regular, sans-serif;
     font-size: 15px;
     color: rgb(156, 155, 155);
     line-height: 1.2;
@@ -91,7 +92,7 @@
 
 input{
     height: 45px;
-    font-family: Poppins-Regular;
+    font-family: Poppins-Regular, sans-serif;
     font-size: 15px;
     color: #555;
     line-height: 1.2;
@@ -133,10 +134,11 @@ input[type=checkbox] {
     padding: 0;
     width: 15px;
     height: 15px;
+    accent-color: #57b846;
 }
 
 .label-checkbox {
-    font-family: Poppins-Regular;
+    font-family: Poppins-Regular, sans-serif;
     font-size: 13px;
     color: #999;
     line-height: 1.4;
@@ -147,7 +149,7 @@ input[type=checkbox] {
 }
 
 .txt1 {
-    font-family: Poppins-Regular;
+    font-family: Poppins-Regular, sans-serif;
     font-size: 13px;
     line-height: 1.4;
     color: #999;
@@ -170,7 +172,7 @@ input[type=checkbox] {
     height: 50px;
     background-color: #57b846;
     border-radius: 25px;
-    font-family: Poppins-Regular;
+    font-family: Poppins-Regular, sans-serif;
     font-size: 16px;
     color: #fff;
     line-height: 1.2;
